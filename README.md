@@ -4,8 +4,6 @@
 
 ### 🚀 About Me
 
-> *"The will to keep trying is the ultimate key to success."*
-
 I'm an **Informatics Engineering** student at **Universitas Maritim Raja Ali Haji (UMRAH)**, driven by curiosity about how technology can shape the future. The digital world's limitless potential is what pushes me to keep building, learning, and innovating.
 
 My main focus is **Web Development & Front-End Engineering** — a space where I turn ideas into clean, functional, and memorable digital experiences. Alongside that, I'm expanding into **Mobile App UI/UX Design**, learning to see products from the user's point of view.
