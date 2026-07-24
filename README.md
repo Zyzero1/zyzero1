@@ -10,8 +10,6 @@ I'm an **Informatics Engineering** student at **Universitas Maritim Raja Ali Haj
 
 My main focus is **Web Development & Front-End Engineering** — a space where I turn ideas into clean, functional, and memorable digital experiences. Alongside that, I'm expanding into **Mobile App UI/UX Design**, learning to see products from the user's point of view.
 
-I hold on to one principle: *keep trying, keep growing*. With that mindset, I've taken on real-world challenges —
-
 🏢 **Web Developer Intern at Dinas Komunikasi dan Informatika (Diskominfo) Kota Tanjungpinang, 2025**
 Built a **Public Satisfaction Survey website** and a **Kelurahan (sub-district) profile website** used to support public services.
 
