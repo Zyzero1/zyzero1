@@ -49,7 +49,7 @@ I'm always eager to learn, build, and grow into a **solution-oriented Software E
 <table>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Front-End:</td>
-    <td><img height="50" src="https://skillicons.dev/icons?i=html,css,js,vue,react,wpf"/></td>
+    <td><img height="50" src="https://skillicons.dev/icons?i=html,css,js,vue,react"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Back-End:</td>
