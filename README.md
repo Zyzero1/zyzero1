@@ -4,17 +4,20 @@
 
 ### 🚀 About Me
 
-I'm an **Informatics Engineering** student at **Universitas Maritim Raja Ali Haji (UMRAH)**, driven by curiosity about how technology can shape the future. The digital world's limitless potential is what pushes me to keep building, learning, and innovating.
+I'm a **Bachelor's Degree graduate in Informatics Engineering** from **Universitas Maritim Raja Ali Haji (UMRAH), Class of 2026**. Passionate about technology, I enjoy building digital solutions and continuously exploring new possibilities.
 
-My main focus is **Web Development & Front-End Engineering** — a space where I turn ideas into clean, functional, and memorable digital experiences. Alongside that, I'm expanding into **Mobile App UI/UX Design**, learning to see products from the user's point of view.
+My main focus is **Web Development & Front-End Engineering**, with growing interests in **Mobile App UI/UX Design** and **Artificial Intelligence**.
 
-🏢 **Web Developer Intern at Dinas Komunikasi dan Informatika (Diskominfo) Kota Tanjungpinang, 2025**
-Built a **Public Satisfaction Survey website** and a **Kelurahan (sub-district) profile website** used to support public services.
+🏢 **Web Developer Intern at Diskominfo Kota Tanjungpinang (2025)**  
+Built a **Public Satisfaction Survey website** and a **Kelurahan Profile website** to support digital public services.
 
-🌊 **Main KKN Program — Sungai Lekop Village**
-Designed and built an **informative Kelurahan Sungai Lekop website**, making it easier for the local community to access information and services.
+🌊 **Main KKN Program — Sungai Lekop Village**  
+Designed and developed the **Kelurahan Sungai Lekop website** to improve access to local information and services.
 
-I'm always ready for the next step toward becoming a **solution-oriented, innovative engineer**.
+🤖 **AI & Computer Vision Research**  
+Explored **EfficientDet-D0 and YOLOv8** for real-time underwater seagrass (lamun) detection.
+
+I'm always eager to learn, build, and grow into a **solution-oriented Software Engineer**.
 
 ---
 
