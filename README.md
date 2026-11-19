@@ -53,7 +53,7 @@ I'm always eager to learn, build, and grow into a **solution-oriented Software E
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Back-End:</td>
-    <td><img height="50" src="https://skillicons.dev/icons?i=php,flask,python"/></td>
+    <td><img height="50" src="https://skillicons.dev/icons?i=php,flask,python,cs,dotnet,postgresql"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Mobile Development:</td>
